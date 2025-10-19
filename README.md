@@ -64,7 +64,7 @@ Software · AI · Hardware · Auto
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourName&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=medege&color=blue&style=flat)
 
 - ⚡ Fun fact: ...
 
