@@ -38,8 +38,8 @@ Software · AI · Hardware · Auto
 
 ## 📊 GitHub Stats
 
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourName&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourName&layout=compact&theme=tokyonight)
+![medege's GitHub Stats](https://github-readme-stats.vercel.app/api?username=medege&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=medege&layout=compact&theme=tokyonight)
 
 ---
 
